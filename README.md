@@ -16,4 +16,4 @@ Aplicação web para manipular registros de pessoas (CRUD: Create, Read, Update,
 ## 🚀 Como Executar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/EduardoPec/manipularRegistro
