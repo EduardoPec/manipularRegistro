@@ -19,4 +19,4 @@ Aplicação web para manipular registros de pessoas (CRUD: Create, Read, Update,
    git clone https://github.com/EduardoPec/manipularRegistro
 
 ## 📸 Preview
-![Screenshot](ftManipularObjetos.png)
+![Screenshot](ftManipuladorObjetos.png)
